@@ -1,0 +1,7 @@
+What is a remote repository?
+
+Remote repository is practically the repository online that can be used to share to other people whom is
+working on the same project. It mainly help keep your project to stay up-to-date with change that other people has made
+and also backing-up projects, and keeping history of all the changes everyone has made.
+
+
